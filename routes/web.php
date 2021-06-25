@@ -16,3 +16,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/home', 'PagesController@index');
+Route::post('/home','PagesController@store');
+Route::get('/post/{pertanyaan_id}','PagesController@show');
+Route::post('/post/{pertanyaan_id}','AnswerController@store');
