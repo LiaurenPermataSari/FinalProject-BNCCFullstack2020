@@ -11,3 +11,7 @@
 
 
 # Preview : #
+
+![Quori_Landing_Page](https://raw.githubusercontent.com/liaurenpermata/FinalProject-BNCCFullstack2020/main/Quori%20(1).png?raw=true)
+![Quori_Landing_Page_2](https://raw.githubusercontent.com/liaurenpermata/FinalProject-BNCCFullstack2020/main/Quori%20(2).png?raw=true)
+![Quori_Question_Page](https://raw.githubusercontent.com/liaurenpermata/FinalProject-BNCCFullstack2020/main/Quori%20(3).png?raw=true)
